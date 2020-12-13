@@ -16,7 +16,7 @@
 
 [![GitHub miguelpruivo](https://img.shields.io/github/followers/miguelpruivo?label=follow&style=social)](https://github.com/miguelpruivo)
 
-<a href="https://stackoverflow.com/users/6919963/miguel-ruivo"><img src="https://stackoverflow.com/users/flair/6919963.png" width="208" height="58" alt="profile for Miguel Ruivo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Miguel Ruivo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/6919963/miguel-ruivo"><img src="https://stackoverflow.com/users/flair/6919963.png?theme=dark" width="208" height="58" alt="profile for Miguel Ruivo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Miguel Ruivo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 **Languages and Tools:**  
 
