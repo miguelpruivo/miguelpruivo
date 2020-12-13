@@ -2,12 +2,14 @@
 
 ### I'm Miguel, a passionate Mobile Developer currently mostly working with Flutter.
 
-- 🔭  I’m currently working at [Hypnotic](https://hypnotic.pt/).
 - 👨‍💻  I'm a **Mobile Engineer**.
-- 📖  Currently learning: A bit of everything.
+- 🔭  I’m currently working at [Hypnotic](https://hypnotic.pt/).
+- 📖  As an always learner, I'm curious to learn a bit of everything.
 - ⭐️  I collaborate to multiple portuguese recognized open-source projects.
+- 💙  I enjoy [creating](https://pub.dev/publishers/miguelruivo.com/packages) and contributing to multiple Flutter plugins.
 - 📫  How to reach me: [Email](mailto:miguel@miguelruivo.com)
 - 😄  Pronouns: He/His
+- 🤫  Fun fact: my favorite languages are system level ones (such as C and C++), however, I hardly work with them on my daily basis.
 
 #### Follow me
 [![Twitter: MiguelRuivo](https://img.shields.io/twitter/follow/MiguelRuivo?style=social)](https://twitter.com/miguelruivo)
