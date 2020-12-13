@@ -3,7 +3,7 @@
 ### I'm Miguel, a passionate Mobile Developer currently mostly working with Flutter.
 
 - 🔭  I’m currently working at [Hypnotic](https://hypnotic.pt/).
-- 👨‍💻  I'm **Mobile Engineer**
+- 👨‍💻  I'm a **Mobile Engineer**.
 - 📖  Currently learning: A bit of everything.
 - ⭐️  I collaborate to multiple portuguese recognized open-source projects.
 - 📫  How to reach me: [Email](mailto:miguel@miguelruivo.com)
